@@ -152,9 +152,5 @@ int main()
       else{
           printf("Enter valid password\n");
       }
-    }
-    
-      
-    
-    
+    }  
 }
